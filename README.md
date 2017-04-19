@@ -1,9 +1,14 @@
-# api documentation for  [ember-cli-async-button (v0.6.1)](https://github.com/dockyard/ember-cli-async-button#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-cli-async-button.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-cli-async-button) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-cli-async-button.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-cli-async-button)
+# npmdoc-ember-cli-async-button
+
+#### api documentation for  [ember-cli-async-button (v0.6.1)](https://github.com/dockyard/ember-cli-async-button#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-cli-async-button.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-cli-async-button) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-cli-async-button.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-cli-async-button)
+
 #### This package has been renamed to ember-async-button. Please install that instead.
 
-[![NPM](https://nodei.co/npm/ember-cli-async-button.png?downloads=true)](https://www.npmjs.com/package/ember-cli-async-button)
+[![NPM](https://nodei.co/npm/ember-cli-async-button.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-cli-async-button)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-ember-cli-async-button/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-ember-cli-async-button_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ember-cli-async-button/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-ember-cli-async-button/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-ember-cli-async-button/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-ember-cli-async-button/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ember-cli-async-button/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-ember-cli-async-button/build/screenCapture.npmPackageListing.svg)
 
@@ -67,13 +72,11 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "bcardarella",
-            "email": "brian@dockyard.com"
+            "name": "bcardarella"
         }
     ],
     "name": "ember-cli-async-button",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/dockyard/ember-cli-async-button.git"
@@ -86,17 +89,6 @@
     "version": "0.6.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module ember-cli-async-button](#apidoc.module.ember-cli-async-button)
-1.  string <span class="apidocSignatureSpan">ember-cli-async-button.</span>name
-
-
-
-# <a name="apidoc.module.ember-cli-async-button"></a>[module ember-cli-async-button](#apidoc.module.ember-cli-async-button)
 
 
 
