@@ -86,7 +86,8 @@
         "start": "ember server",
         "test": "ember try:testall"
     },
-    "version": "0.6.1"
+    "version": "0.6.1",
+    "bin": {}
 }
 ```
 
